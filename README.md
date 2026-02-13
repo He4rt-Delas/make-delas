@@ -91,7 +91,7 @@ Infrastructure decisions will be defined by the Infra Girls team.
  └── README.md
 ```
 
-🚀 MVP Scope
+## 🚀 MVP Scope
 
 The MVP includes:
 
